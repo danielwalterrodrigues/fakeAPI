@@ -12,7 +12,7 @@
                 "start": "00:00",
                 "min": "70",
                 "max": "140",
-                "default": true,
+                "default": true
             },
         {
                 "start": "06:00",
