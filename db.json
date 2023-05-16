@@ -7,17 +7,4 @@
     "diagnosedYear": "2003",
     "height": "178cm",
     "weight": "92kg",
-    "target": [
-        {
-                "start": "00:00",
-                "min": "70",
-                "max": "140",
-                "default": "true",
-            },
-        {
-                "start": "06:00",
-                "min": "90",
-                "max": "100",
-                "default": "false"
-            }
-    ]
+}
