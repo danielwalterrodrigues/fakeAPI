@@ -1,10 +1,10 @@
 {
-    "dmType": "Diabetes Gestacional",
-    "therapy": "mdi",
-    "carbCount": "true",
-    "meterMaker": "proxima",
-    "meterBrand": "alive",
-    "diagnosedYear": "2003",
-    "height": "178cm",
-    "weight": "92kg",
+    dmType: "Diabetes Gestacional",
+    therapy: "mdi",
+    carbCount: true,
+    meterMaker: "proxima",
+    meterBrand: "alive",
+    diagnosedYear: "2003",
+    height: "178cm",
+    weight: "92kg"
 }
